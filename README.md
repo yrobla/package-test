@@ -1,3 +1,3 @@
 # package-test
 
-for testing purposes
+for testing purposes!
